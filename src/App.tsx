@@ -4,10 +4,10 @@ import './App.css';
 function App() {
     return (
         <div>
-            <p></p>
-            <p></p>
-            <p></p>
-            <p></p>
+            <p>2</p>
+            <p>2</p>
+            <p>2</p>
+            <p>2</p>
         </div>
     );
 }
