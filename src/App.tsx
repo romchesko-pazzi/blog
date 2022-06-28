@@ -8,6 +8,8 @@ function App() {
             <span>www</span>
             <span>www</span>
             <span>www</span>
+            <span>www</span>
+            <span>www</span>
         </div>
     );
 }
